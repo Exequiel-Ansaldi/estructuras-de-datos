@@ -28,6 +28,3 @@ Some exercises may contain alternative implementations exploring different appro
 
 Educational repository focused on understanding how data structures work internally rather than using built-in language utilities.
 
-Notes
-
-Some exercises may contain alternative implementations exploring different approaches to the same problem.
