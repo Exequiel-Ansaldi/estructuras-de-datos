@@ -1,5 +1,4 @@
-# estructuras-de-datos
-Data Structures
+# Data Structures
 
 Collection of implementations developed during the Data Structures course.
 
