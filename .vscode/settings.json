@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
-        "./TP4-EDD/punto3-4"
+        "./TP4-EDD/punto3-4",
+        "./TP4-EDD"
     ]
 }
