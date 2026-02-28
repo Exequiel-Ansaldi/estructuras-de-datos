@@ -1,5 +1,5 @@
 from typing import Any, Iterable, Optional, Tuple, List
-from ..linear.queues import LinkedQueue
+from data_structures import LinkedQueue
 from .binary_tree_node import BinaryTreeNode
 
 
